@@ -168,7 +168,7 @@ p:last-child {
   background-color: var(--mainColor);
   -webkit-transition: var(--transition);
   transition: var(--transition);
-  padding: 20px 45px;
+  padding: 15px 30px;
   color: var(--whiteColor);
   display: inline-block;
   border-radius: 40px;

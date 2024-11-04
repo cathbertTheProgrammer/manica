@@ -776,7 +776,7 @@ font-weight: 500;
 }
 
 }
-@media only screen and (max-width: 991px) {
+
 .navbar-area.sticky {
     padding: 10px 0;
     top: -1px;
@@ -821,8 +821,6 @@ font-weight: 500;
 .navbar-area .navbar .other-option .option-item a img {
     max-width: 18px;
 }
-}
-@media only screen and (min-width: 992px) {
 
 .navbar-area.style-two.sticky, .navbar-area.style-three.sticky {
     background-color: var(--blackColor);
@@ -842,8 +840,7 @@ font-weight: 500;
 .navbar-area.style-two.sticky .others-option .option-item .sidebar-toggler img, .navbar-area.style-three.sticky .others-option .option-item .sidebar-toggler img {
     filter: brightness(0) invert(1);
 }
-}
-@media only screen and (max-width: 1199px) {
+
 .top-left-items {
     text-align: center;
 }
@@ -887,8 +884,8 @@ font-weight: 500;
     top: 10px;
     font-size: 20px;
 }
-}
-@media only screen and (min-width: 992px) and (max-width: 1199px) {
+
+
 .navbar-area .container {
     max-width: 990px;
 }
@@ -955,8 +952,7 @@ font-weight: 500;
 .top-left-items ul {
     border-bottom: 1px solid #eee;
 }
-}
-@media only screen and (min-width: 1200px) and (max-width: 1299px) {
+
 .navbar-area .container {
     max-width: 1200px;
 }
@@ -993,8 +989,7 @@ font-weight: 500;
 .navbar-area .navbar .others-option .option-item a span {
     display: none;
 }
-}
-@media only screen and (min-width: 1300px) and (max-width: 1399px) {
+
 .navbar-area .container {
     max-width: 1300px;
 }
@@ -1025,13 +1020,13 @@ font-weight: 500;
 .navbar-area .navbar .others-option .option-item:last-child a img {
     margin-right: 5px;
 }
-}
-@media only screen and (min-width: 1400px) {
+
+
 .navbar-area .navbar .navbar-nav > .nav-item {
     margin-right: 29px;
 }
-}
-@media only screen and (min-width: 1400px) and (max-width: 1599px) {
+
+
 .navbar-area .container {
     max-width: 1400px;
 }
@@ -1050,8 +1045,7 @@ font-weight: 500;
 .navbar-area .navbar .others-option .option-item {
     margin-left: 30px;
 }
-}
-@media only screen and (min-width: 1600px) {
+
 .navbar-area .container {
     max-width: 1580px;
 }
@@ -1068,14 +1062,13 @@ font-weight: 500;
     position: relative;
     top: 2px;
 }
-}
-@media only screen and (min-width: 1920px) {
+
 .navbar-area .container {
     max-width: 1605px;
 }
 .navbar-area .others-option .option-item {
     margin-left: 30px;
 }
-}/*# sourceMappingURL=header.css.map */
+/*# sourceMappingURL=header.css.map */
 
 
