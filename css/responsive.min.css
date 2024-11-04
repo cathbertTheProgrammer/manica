@@ -7,6 +7,13 @@
   .container-xxl {
     max-width: 1220px;
   }
+
+  .service-section .service-wrap {
+    margin-top: -440px !important;
+    margin-bottom: -30px !important; 
+    position: relative !important;
+    z-index: 5 !important;
+  }
 }
 @media (min-width: 992px) {
   .row.g-lg-0 {
@@ -16,6 +23,13 @@
   .row.g-lg-0 > * {
     padding-right: 0;
     padding-left: 0;
+  }
+
+  .service-section .service-wrap {
+    margin-top: -440px !important;
+    margin-bottom: -30px !important; 
+    position: relative !important;
+    z-index: 5 !important;
   }
 }
 @media (max-width: 1600px) {
